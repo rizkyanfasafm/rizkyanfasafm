@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=rizkyanfasafm&color=green)
+
 - 👋 Hi, I’m Rizky Anfasa Farras Mada
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning PHP and JavaScript
